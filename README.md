@@ -81,10 +81,7 @@ List the ready features here:
 
 ## Setup
 1. Download or Clone this repository.
-2. Open the project in Eclipse IDE.
-3. Select "Package Explorer" mode to view project structure
-4. Configure "rs2xml.jar" by downloading it from Google.
-5. Run the Project in Design mode.
+2. Open the project's HTML file in Brave/Google Chrome web browser.
 
 
 ## Usage
